@@ -86,9 +86,3 @@ I'm a passionate **Software Engineering Student** driven by the logic behind sof
 <p align="center">
   <i>"Reasoning about system design — microservices, clean architecture patterns, and maintainable codebases that scale."</i>
 </p>
-
-
-in the language and tools section
-tools
-are in the same column
-i dont want that
