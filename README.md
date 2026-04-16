@@ -95,13 +95,24 @@ HTML
 
 ---
 
-### 📬 Connect with Me
+<h3 align="center">📬 Connect with Me</h3>
 
-<p align="left">
-  <a href="https://linkedin.com/in/omar-bouhlal-101ba6353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarbouhlal" height="30" width="40" /></a>
-  <a href="mailto:omarbouhlal05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="omarbouhlal" height="30" width="40" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/omar-bouhlal-101ba6353" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:omarbouhlal05@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <i>"Reasoning about system design — microservices, clean architecture patterns, and maintainable codebases that scale."</i>
+  <br />
+  <i>"Reasoning about system design — microservices, clean architecture patterns, and maintainable codebases that scale."</i>
 </p>
