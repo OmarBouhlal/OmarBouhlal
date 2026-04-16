@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Bouhlal</h1>
+<h1 align="center">Hi, I'm Omar Bouhlal</h1>
 <h3 align="center">4th Year Software & Intelligent Systems Engineering Student at ENSAM Meknès</h3>
 
 <p align="center">
